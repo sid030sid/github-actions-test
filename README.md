@@ -1,6 +1,7 @@
 <header>
 
 # Hello GitHub Actions
+This is a change in the readme file to test the GitHub Action
 
 _Create and run a GitHub Actions workflow._
 
